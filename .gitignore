@@ -1,3 +1,4 @@
 web/node_modules
 cli/seats.txt
 cli/requirement.txt
+cli/__pycache__
