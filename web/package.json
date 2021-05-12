@@ -14,7 +14,7 @@
     "http-errors": "~1.6.2",
     "mongoose": "^5.2.17",
     "morgan": "~1.9.0",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "req-flash": "0.0.3",
     "sleep": "^5.2.3"
   }
